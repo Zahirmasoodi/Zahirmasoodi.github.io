@@ -2,7 +2,7 @@
 
 This is Zahir ul Islam, a budding Software Engineer. He is ambitious, adventurous, assiduous, animated, and an alliteration advocate. He holds a Bachelor's in CS, is trained in ReactJS, ExpressJS, NodeJS and MongoDB.
 
-![](https://github.com/zahirmasoodi/zahirmasoodi.github.io/blob/main/zahir.jpeg)
+![](https://cdn.landly.page/uploaded/45794d75-e02d-49fe-81df-7703c5da3214.jpg)
 
 Zahir specializes in Javascript, he has a good understanding of it's methodologies including object oriented and functional programming concepts with a fundamental knowledge about data structures and algorithms. Zahir has a professional experience working with the following technologies:
 - HTML 5, CSS3, JAVASCRIPT, BOOTSTRAP.
