@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## MERN Developer
 
-You can use the [editor on GitHub](https://github.com/Zahirmasoodi/zahirmasoodi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This is Zahir ul Islam, a budding Software Engineer. He is ambitious, adventurous, assiduous, animated, and an alliteration advocate. He holds a Bachelor's in CS, and is trained in ReactJS, ExpressJS, NodeJS and MongoDB.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zahir specializes in Javascript, he has a good understanding of it's methodologies including object oriented and functional programming concepts with a fundamental knowledge about data structures and algorithms. Zahir has a professional experience working with the following technologies:
+- HTML 5, CSS3, JAVASCRIPT, BOOTSTRAP.
+- ANT DESIGN, TAILWIND CSS, REACTSTRAP, REACT BOOTSTRAP.
+- REACT JS, REDUX.
+- NODE JS, EXPRESS JS, MONGODB.
+- API DEVELOPMENT.
+- NGINX, LINUX, AWS.
+- GITHUB, NETLIFY, HEROKU, VERCEL.
+- WORDPRESS
 
-### Markdown
+## A Cinephile and A Melomaniac
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Zahir will choose to watch a movie over everything. From Hollywood to Iranian Cinema, silent era to CGI, shorts to 6 hour longs, Western to Thriller, low budget to big budget, he loves them all. No movie is good or bad, it's just a matter of taste! 
+
+Zahir has two strict rules, "Whoever says that The Shawshank Redemption is the greatest movie of all time, he doesn't talk movies with them." The other rule, he doesn't talk about it.
+
+To have a good taste in music is a blessing. It depends on his mood what song he will listen to. It can be Bade Ghulam Ali Khan, Bob Dylan, Pt Ravi Shankar, Led Zeppelin, Ustadh Bismillah Khan, Tupac Shakur, Justin Bieber, anything. He usually listens to Urdu, Persian, English, Hindi, Kashmiri songs.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Other Interests
+Zahir is a Political Enthusiast, an Aesthete and a Realist.
 
-### Jekyll Themes
+## Contact
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Zahirmasoodi/zahirmasoodi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**_LinkedIn_** - [GitHub Flavored Markdown](https://www.linkedin.com/in/zahir-ul-islam).
+**_Instagram_** - [GitHub Flavored Markdown](https://www.instagram.com/zahir.masoodi).
+**_Twitter_** - [GitHub Flavored Markdown](https://www.twitter.com/zahirmasoodi).
