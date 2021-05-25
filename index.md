@@ -1,4 +1,4 @@
-## MERN Developer
+### MERN Stack Developer
 
 This is Zahir ul Islam, a budding Software Engineer. He is ambitious, adventurous, assiduous, animated, and an alliteration advocate. He holds a Bachelor's in CS, is trained in ReactJS, ExpressJS, NodeJS and MongoDB.
 
@@ -14,7 +14,7 @@ Zahir specializes in Javascript, he has a good understanding of it's methodologi
 - GITHUB, NETLIFY, HEROKU, VERCEL.
 - WORDPRESS
 
-Zahir currently works in [IICRA](https://www.iicra.com/)
+Zahir currently works in [The International Islamic Centre for Reconciliation and Arbitration](https://www.iicra.com/)
 
 ## A Cinephile and A Melomaniac
 
@@ -30,7 +30,10 @@ Zahir is a Political Enthusiast, an Aesthete and a Realist.
 
 ## Contact
 
-**_LinkedIn_** - [Zahir](https://www.linkedin.com/in/zahir-ul-islam)
-**_Instagram_** - [Zahir](https://www.instagram.com/zahir.masoodi)
-**_Twitter_** - [Zahir](https://www.twitter.com/zahirmasoodi)
-**_mail_** - [zahir.linkinpark@gmail.com, zahir@iicra.com]
+**_LinkedIn_** - [Zahir](https://www.linkedin.com/in/zahir-ul-islam).
+
+**_Instagram_** - [Zahir](https://www.instagram.com/zahir.masoodi).
+
+**_Twitter_** - [Zahir](https://www.twitter.com/zahirmasoodi).
+
+**_mail_** - zahir.linkinpark@gmail.com, zahir@iicra.com
