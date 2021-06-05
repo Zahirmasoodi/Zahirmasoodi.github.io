@@ -30,10 +30,10 @@ Zahir is a Political Enthusiast, an Aesthete and a Realist.
 
 - ## Contact
 
-_LinkedIn_ - [Irfan](https://www.linkedin.com/in/irfan-shah-4729871bb)
+_LinkedIn_ - [Zahir](https://www.linkedin.com/in/zahir-ul-islam)
 
-_Instagram_ - [Irfan](https://www.instagram.com/_Is919_)
+_Instagram_ - [Zahir](https://www.instagram.com/zahirmasoodi)
 
-_Twitter_ - [Irfan](https://www.twitter.com/_IS919)
+_Twitter_ - [Zahir](https://www.twitter.com/zahirmasoodi)
 
 _mail_ - zahir.linkinpark@gmail.com, zahir@iicra.com
