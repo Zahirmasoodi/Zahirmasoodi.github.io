@@ -32,7 +32,7 @@ Zahir is a Political Enthusiast, an Aesthete and a Realist.
 
 _LinkedIn_ - [Zahir](https://www.linkedin.com/in/zahir-ul-islam)
 
-_Instagram_ - [Zahir](https://www.instagram.com/zahirmasoodi)
+_Instagram_ - [Zahir](https://www.instagram.com/zahir.masoodi)
 
 _Twitter_ - [Zahir](https://www.twitter.com/zahirmasoodi)
 
