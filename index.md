@@ -22,7 +22,7 @@ Zahir will choose to watch a movie over everything. From Hollywood to Iranian Ci
 
 Zahir has two strict rules, "Whoever says that The Shawshank Redemption is the greatest movie of all time, he doesn't talk movies with them." The other rule, he doesn't talk about it.
 
-To have a good taste in music is a blessing. It depends on his mood what song he will listen to. It can be Bade Ghulam Ali Khan, Bob Dylan, Pt Ravi Shankar, Led Zeppelin, Ustadh Bismillah Khan, Tupac Shakur, Justin Bieber, anything. He usually listens to Urdu, Persian, English, Hindi, Kashmiri songs.
+To have a good taste in music is a blessing. It depends on his mood what song he will listen to. It can be Bade Ghulam Ali Khan, Bob Dylan, Pt Ravi Shankar, Led Zeppelin, Ustadh Bismillah Khan, Tupac Shakur, Mohsen Namjoo, Justin Bieber, anything. He usually listens to Urdu, Persian, English, Hindi, Kashmiri songs.
 
 - ## Other Interests
 
