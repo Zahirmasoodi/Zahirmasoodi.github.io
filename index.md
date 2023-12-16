@@ -3,7 +3,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h3 align="center">Hi there, I'm Zahir</h3>
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 🎓 A 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 graduate from Islamic University of Science and Technology (Kashmir), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸018
 
