@@ -8,7 +8,7 @@
 </p>
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 Web & Application Developer
 - 🎓 A 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 graduate from Islamic University of Science and Technology (Kashmir), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸018
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
