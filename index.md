@@ -33,7 +33,7 @@ Close all the open Google Chrome tabs
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)](#)
 [![Tailwind](https://img.shields.io/badge/-Tailwind-44C1F8?logo=tailwindcss&logoColor=white)](#)
-[![Next](https://img.shields.io/badge/-Next-000000?logo=next&logoColor=white)](#)
+[![Next](https://img.shields.io/badge/-Next-000000?logo=nextjs&logoColor=white)](#)
 [![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/aws-172338?logo=amazon&logoColor=ED8732)](#)
 [![Heroku](https://img.shields.io/badge/heroku-3F0096?logo=heroku&logoColor=white)](#)
